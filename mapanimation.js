@@ -15,7 +15,7 @@ const busStops = [
   ];
   
   // Adds your own access token
-  mapboxgl.accessToken = 'secret.SECRET';
+  mapboxgl.accessToken = 'secrets.SECRET';
   
   // This is the map instance
   let map = new mapboxgl.Map({
