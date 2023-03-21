@@ -1,6 +1,6 @@
 # Real Time Bus Tracker
 
-<img src= "BusTracker.png" width='300'/>
+<img src= "Bus_Tracker.png" width='300'/>
 
 ## Website Link:
 ><a href="https://carterdallen.github.io/Real-Time-Bus-Tracker.github.io/"> Bus Tracker </a>
