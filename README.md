@@ -1,6 +1,5 @@
 # Real Time Bus Tracker
 
-# Eyes-Exercise
 <img src= "BusTracker.png" width='300'/>
 
 ## Website Link:
